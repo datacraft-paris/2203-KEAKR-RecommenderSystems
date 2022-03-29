@@ -1,0 +1,7 @@
+ovhai
+test.txt
+data/full/*
+utils/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/graph_data.dataset
+notebooks/out2.csv notebooks/out.csv
